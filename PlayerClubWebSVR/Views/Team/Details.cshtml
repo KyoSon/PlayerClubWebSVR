@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model PlayerClubWebSVR.Models.Team
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h4>Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Ground)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Ground)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Coach)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Coach)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.FoundedYear)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.FoundedYear)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Region)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Region)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.RugbyUnionId)
+        </dt>
+        <dd class = "col-sm-8">
+            <a asp-action="ShowRugbyUnionInfoFromPlayer" asp-route-id="@Model?.RugbyUnionId">@Html.DisplayFor(model => model.RugbyUnionId)</a>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

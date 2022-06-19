@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PlayerClubWebSVR
+build_property.RootNamespace = PlayerClubWebSVR
+build_property.ProjectDir = C:\sq\Exercise\Job\SkillSVR\PlayerClubWebSVR\PlayerClubWebSVR\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\sq\Exercise\Job\SkillSVR\PlayerClubWebSVR\PlayerClubWebSVR
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/ShowRugbyUnionInfoFromPlayer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXFNob3dSdWdieVVuaW9uSW5mb0Zyb21QbGF5ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Player/ShowTeamInfoFromPlayer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyXFNob3dUZWFtSW5mb0Zyb21QbGF5ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/RugbyUnion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVnYnlVbmlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/RugbyUnion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVnYnlVbmlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/RugbyUnion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVnYnlVbmlvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/RugbyUnion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVnYnlVbmlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/RugbyUnion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVnYnlVbmlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/ShowAllPlayers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxTaG93QWxsUGxheWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Team/ShowRugbyUnionInfoFromPlayer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxTaG93UnVnYnlVbmlvbkluZm9Gcm9tUGxheWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sq/Exercise/Job/SkillSVR/PlayerClubWebSVR/PlayerClubWebSVR/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g34n754sau

@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model PlayerClubWebSVR.Models.Team
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Delete</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Coach)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Coach)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Region)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Region)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.FoundedYear)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.FoundedYear)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Ground)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Ground)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.RugbyUnionId)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.RugbyUnionId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

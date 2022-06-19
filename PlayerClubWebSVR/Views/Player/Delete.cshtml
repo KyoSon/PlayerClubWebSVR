@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model PlayerClubWebSVR.Models.Player
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Delete</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.BirthDate)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.BirthDate)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Height)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Height)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Weight)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Weight)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.PlaceOfBirth)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.PlaceOfBirth)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.TeamId)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.TeamId)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.RugbyUnionId)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.RugbyUnionId)
+        </dd>
+    </dl>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+
